@@ -1,0 +1,3 @@
+D:/C++/Boy or Girl/cmake-build-debug/CMakeFiles/Boy_or_Girl.dir
+D:/C++/Boy or Girl/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++/Boy or Girl/cmake-build-debug/CMakeFiles/rebuild_cache.dir
